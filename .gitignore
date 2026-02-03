@@ -1,0 +1,10 @@
+# OS / user files
+.*
+!.gitignore
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
