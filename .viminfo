@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1770138282,,"wq!"
+|2,0,1770139186,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/project1/Dockerfile
-|4,48,8,0,1770138282,"~/project1/Dockerfile"
-'1  6  16  ~/project1/node.js
-|4,49,6,16,1770138125,"~/project1/node.js"
+'0  8  0  ~/project1/package.json
+|4,48,8,0,1770139186,"~/project1/package.json"
+'1  8  0  ~/project1/Dockerfile
+|4,49,8,0,1770138282,"~/project1/Dockerfile"
+'2  6  16  ~/project1/node.js
+|4,50,6,16,1770138125,"~/project1/node.js"
 
 # Jumplist (newest first):
+-'  8  0  ~/project1/package.json
+|4,39,8,0,1770139186,"~/project1/package.json"
+-'  1  0  ~/project1/package.json
+|4,39,1,0,1770139172,"~/project1/package.json"
 -'  8  0  ~/project1/Dockerfile
 |4,39,8,0,1770138282,"~/project1/Dockerfile"
+-'  8  0  ~/project1/Dockerfile
+|4,39,8,0,1770138282,"~/project1/Dockerfile"
+-'  1  0  ~/project1/Dockerfile
+|4,39,1,0,1770138145,"~/project1/Dockerfile"
 -'  1  0  ~/project1/Dockerfile
 |4,39,1,0,1770138145,"~/project1/Dockerfile"
 -'  6  16  ~/project1/node.js
 |4,39,6,16,1770138125,"~/project1/node.js"
 -'  6  16  ~/project1/node.js
 |4,39,6,16,1770138125,"~/project1/node.js"
+-'  6  16  ~/project1/node.js
+|4,39,6,16,1770138125,"~/project1/node.js"
+-'  6  16  ~/project1/node.js
+|4,39,6,16,1770138125,"~/project1/node.js"
+-'  1  0  ~/project1/node.js
+|4,39,1,0,1770138105,"~/project1/node.js"
+-'  1  0  ~/project1/node.js
+|4,39,1,0,1770138105,"~/project1/node.js"
 -'  1  0  ~/project1/node.js
 |4,39,1,0,1770138105,"~/project1/node.js"
 -'  1  0  ~/project1/node.js
 |4,39,1,0,1770138105,"~/project1/node.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/project1/package.json
+	*	1770139184	0
+	"	8	0
+	^	8	0
+	.	7	1
+	+	7	1
 
 > ~/project1/Dockerfile
 	*	1770138281	0
